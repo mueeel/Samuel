@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Allo",
+			"Path": "..\\Source\\Allo.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AlloEditor",
+			"Path": "..\\Source\\AlloEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

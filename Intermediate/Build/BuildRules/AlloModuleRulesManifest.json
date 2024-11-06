@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\karl_\\OneDrive - Collège de Bois-de-Boulogne\\Documents\\GithubProjects\\Samuel\\Source\\Allo\\Allo.Build.cs",
+		"C:\\Users\\karl_\\OneDrive - Collège de Bois-de-Boulogne\\Documents\\GithubProjects\\Samuel\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\AdvancedSessions.Build.cs",
+		"C:\\Users\\karl_\\OneDrive - Collège de Bois-de-Boulogne\\Documents\\GithubProjects\\Samuel\\Plugins\\AdvancedSteamSessions\\Source\\AdvancedSteamSessions\\AdvancedSteamSessions.Build.cs",
+		"C:\\Users\\karl_\\OneDrive - Collège de Bois-de-Boulogne\\Documents\\GithubProjects\\Samuel\\Source\\Allo.Target.cs",
+		"C:\\Users\\karl_\\OneDrive - Collège de Bois-de-Boulogne\\Documents\\GithubProjects\\Samuel\\Source\\AlloEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
